@@ -1,3 +1,5 @@
+package ContaBancaria;
+
 public class Conta {
     private double saldo;
     private double chequeEspecial;
